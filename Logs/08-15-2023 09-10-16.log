@@ -1,0 +1,13 @@
+[2023-08-15 09:10:18,043] : root: DEBUG: Dataset read from the notebooks folder
+[2023-08-15 09:10:18,104] : root: INFO: Obtaining the data inside the initiate data transformation() completed
+[2023-08-15 09:10:18,104] : root: INFO: Getting data transformer
+[2023-08-15 09:10:19,774] : root: INFO: Got the transformer object: Pipeline(steps=[('columntransformer',
+                 ColumnTransformer(transformers=[('num_pipeline',
+                                                  Pipeline(steps=[('standardScaler',
+                                                                   StandardScaler())]),
+                                                  ['age', 'bmi', 'children']),
+                                                 ('cat_pipeline',
+                                                  Pipeline(steps=[('OneHotEncoding',
+                                                                   OneHotEncoder())]),
+                                                  ['sex', 'smoker',
+                                                   'region'])]))])

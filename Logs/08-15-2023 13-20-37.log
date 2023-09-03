@@ -1,0 +1,8 @@
+[2023-08-15 13:20:38,985] : werkzeug: WARNING:  * Debugger is active!
+[2023-08-15 13:20:38,998] : werkzeug: INFO:  * Debugger PIN: 624-739-123
+[2023-08-15 13:20:39,231] : werkzeug: INFO: 127.0.0.1 - - [15/Aug/2023 13:20:39] "GET / HTTP/1.1" 200 -
+[2023-08-15 13:20:42,840] : werkzeug: INFO: 127.0.0.1 - - [15/Aug/2023 13:20:42] "GET /homepage HTTP/1.1" 200 -
+[2023-08-15 13:20:50,672] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-15 13:20:50,674] : root: INFO: starting prediction
+[2023-08-15 13:20:50,914] : werkzeug: INFO: 127.0.0.1 - - [15/Aug/2023 13:20:50] "POST /homepage HTTP/1.1" 200 -
+[2023-08-15 13:23:24,871] : werkzeug: INFO:  * Detected change in 'e:\\personal\\projects\\health_insurance\\src\\pipelines\\Predict_Pipeline.py', reloading

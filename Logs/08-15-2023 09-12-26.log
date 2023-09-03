@@ -1,0 +1,5 @@
+[2023-08-15 09:12:27,801] : root: DEBUG: Dataset read from the notebooks folder
+[2023-08-15 09:12:27,883] : root: INFO: Obtaining the data inside the initiate data transformation() completed
+[2023-08-15 09:12:27,883] : root: INFO: Getting data transformer
+[2023-08-15 09:12:27,887] : root: INFO: train_df: (936, 7), test_df: (402, 7)
+[2023-08-15 09:12:27,913] : root: INFO: train_df: (936, 11), test_df: (402, 11)

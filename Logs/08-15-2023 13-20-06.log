@@ -1,0 +1,11 @@
+[2023-08-15 13:20:07,673] : werkzeug: WARNING:  * Debugger is active!
+[2023-08-15 13:20:07,682] : werkzeug: INFO:  * Debugger PIN: 624-739-123
+[2023-08-15 13:20:08,056] : werkzeug: INFO: 127.0.0.1 - - [15/Aug/2023 13:20:08] "GET / HTTP/1.1" 200 -
+[2023-08-15 13:20:11,418] : werkzeug: INFO: 127.0.0.1 - - [15/Aug/2023 13:20:11] "GET /homepage HTTP/1.1" 200 -
+[2023-08-15 13:20:19,552] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-15 13:20:19,583] : werkzeug: INFO: 127.0.0.1 - - [15/Aug/2023 13:20:19] "[35m[1mPOST /homepage HTTP/1.1[0m" 500 -
+[2023-08-15 13:20:21,064] : werkzeug: INFO: 127.0.0.1 - - [15/Aug/2023 13:20:21] "[36mGET /homepage?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-08-15 13:20:21,070] : werkzeug: INFO: 127.0.0.1 - - [15/Aug/2023 13:20:21] "[36mGET /homepage?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-08-15 13:20:21,095] : werkzeug: INFO: 127.0.0.1 - - [15/Aug/2023 13:20:21] "[36mGET /homepage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-08-15 13:20:21,124] : werkzeug: INFO: 127.0.0.1 - - [15/Aug/2023 13:20:21] "[36mGET /homepage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-08-15 13:20:26,600] : werkzeug: INFO:  * Detected change in 'e:\\personal\\projects\\health_insurance\\src\\pipelines\\Predict_Pipeline.py', reloading

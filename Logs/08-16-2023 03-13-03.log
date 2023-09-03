@@ -1,0 +1,131 @@
+[2023-08-16 03:13:04,401] : werkzeug: WARNING:  * Debugger is active!
+[2023-08-16 03:13:04,407] : werkzeug: INFO:  * Debugger PIN: 680-486-248
+[2023-08-16 03:13:05,444] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:13:05,444] : root: INFO: starting prediction
+[2023-08-16 03:13:05,575] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:13:05] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:13:06,127] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:13:06] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:13:13,467] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:13:13,468] : root: INFO: starting prediction
+[2023-08-16 03:13:13,480] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:13:13] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:13:13,506] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:13:13] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:13:33,941] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:13:33,942] : root: INFO: starting prediction
+[2023-08-16 03:13:33,967] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:13:33] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:13:34,002] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:13:34] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:13:51,490] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:13:51,494] : root: INFO: starting prediction
+[2023-08-16 03:13:51,529] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:13:51] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:13:51,556] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:13:51] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:14:22,724] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:14:22,725] : root: INFO: starting prediction
+[2023-08-16 03:14:22,750] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:14:22] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:14:22,783] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:14:22] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:14:54,748] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:14:54,749] : root: INFO: starting prediction
+[2023-08-16 03:14:54,793] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:14:54] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:14:54,822] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:14:54] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:15:15,944] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:15:15,944] : root: INFO: starting prediction
+[2023-08-16 03:15:15,982] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:15:15] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:15:16,016] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:15:16] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:15:27,106] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:15:27,106] : root: INFO: starting prediction
+[2023-08-16 03:15:27,136] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:15:27] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:15:27,168] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:15:27] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:15:36,202] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:15:36,203] : root: INFO: starting prediction
+[2023-08-16 03:15:36,232] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:15:36] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:15:36,304] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:15:36] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:15:57,423] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:15:57,424] : root: INFO: starting prediction
+[2023-08-16 03:15:57,446] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:15:57] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:15:57,480] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:15:57] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:16:38,155] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:16:38,156] : root: INFO: starting prediction
+[2023-08-16 03:16:38,183] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:16:38] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:16:38,228] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:16:38] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:16:59,879] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:16:59,880] : root: INFO: starting prediction
+[2023-08-16 03:16:59,903] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:16:59] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:16:59,941] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:16:59] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:17:28,227] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:17:28,227] : root: INFO: starting prediction
+[2023-08-16 03:17:28,255] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:17:28] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:17:28,293] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:17:28] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:17:36,726] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:17:36,726] : root: INFO: starting prediction
+[2023-08-16 03:17:36,755] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:17:36] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:17:36,789] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:17:36] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:17:44,173] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:17:44,173] : root: INFO: starting prediction
+[2023-08-16 03:17:44,193] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:17:44] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:17:44,219] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:17:44] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:17:53,028] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:17:53,028] : root: INFO: starting prediction
+[2023-08-16 03:17:53,051] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:17:53] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:17:53,083] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:17:53] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:17:59,969] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:17:59,970] : root: INFO: starting prediction
+[2023-08-16 03:17:59,998] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:17:59] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:18:00,044] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:18:00] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:18:06,004] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:18:06,004] : root: INFO: starting prediction
+[2023-08-16 03:18:06,031] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:18:06] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:18:06,062] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:18:06] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:18:14,923] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:18:14,925] : root: INFO: starting prediction
+[2023-08-16 03:18:14,958] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:18:14] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:18:14,988] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:18:14] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:19:07,688] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:19:07,688] : root: INFO: starting prediction
+[2023-08-16 03:19:07,711] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:19:07] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:19:07,740] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:19:07] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:19:15,598] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:19:15,598] : root: INFO: starting prediction
+[2023-08-16 03:19:15,622] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:19:15] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:19:15,651] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:19:15] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:19:31,682] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:19:31,682] : root: INFO: starting prediction
+[2023-08-16 03:19:31,722] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:19:31] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:19:31,754] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:19:31] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:19:41,474] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:19:41,474] : root: INFO: starting prediction
+[2023-08-16 03:19:41,501] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:19:41] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:19:41,534] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:19:41] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:20:55,029] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:20:55,030] : root: INFO: starting prediction
+[2023-08-16 03:20:55,049] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:20:55] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:20:55,085] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:20:55] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:21:00,514] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:21:00,514] : root: INFO: starting prediction
+[2023-08-16 03:21:00,525] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:00] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:21:00,549] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:00] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:21:03,279] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:03] "GET / HTTP/1.1" 200 -
+[2023-08-16 03:21:07,481] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:07] "GET /homepage HTTP/1.1" 200 -
+[2023-08-16 03:21:07,504] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:07] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:21:23,173] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:23] "GET /homepage HTTP/1.1" 200 -
+[2023-08-16 03:21:23,221] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:23] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:21:24,330] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:24] "GET /homepage HTTP/1.1" 200 -
+[2023-08-16 03:21:24,388] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:24] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:21:25,357] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:25] "GET /homepage HTTP/1.1" 200 -
+[2023-08-16 03:21:25,498] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:25] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:21:29,549] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:29] "GET /homepage HTTP/1.1" 200 -
+[2023-08-16 03:21:29,571] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:29] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:21:30,155] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:30] "GET /homepage HTTP/1.1" 200 -
+[2023-08-16 03:21:30,179] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:30] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:21:30,327] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:30] "GET /homepage HTTP/1.1" 200 -
+[2023-08-16 03:21:30,367] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:30] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:21:30,476] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:30] "GET /homepage HTTP/1.1" 200 -
+[2023-08-16 03:21:30,508] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:30] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:21:48,280] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:48] "GET /homepage HTTP/1.1" 200 -
+[2023-08-16 03:21:48,302] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:48] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:21:48,483] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:48] "GET /homepage HTTP/1.1" 200 -
+[2023-08-16 03:21:48,595] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:48] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:21:56,548] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:56] "GET /homepage HTTP/1.1" 200 -
+[2023-08-16 03:21:56,570] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:21:56] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:22:29,585] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:22:29] "GET /homepage HTTP/1.1" 200 -
+[2023-08-16 03:22:29,607] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:22:29] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -
+[2023-08-16 03:22:53,158] : root: ERROR: predict_df shape: (1, 6)
+[2023-08-16 03:22:53,158] : root: INFO: starting prediction
+[2023-08-16 03:22:53,172] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:22:53] "POST /homepage HTTP/1.1" 200 -
+[2023-08-16 03:22:53,213] : werkzeug: INFO: 127.0.0.1 - - [16/Aug/2023 03:22:53] "[36mGET /static/picture3.jpg HTTP/1.1[0m" 304 -

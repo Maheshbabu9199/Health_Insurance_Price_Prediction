@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>Homepage</title>
+        <style>
+            .div01{
+                background-image: url('static/picture3.jpg');
+                background-repeat: no-repeat;
+                background-size: 1500px 750px;
+                width: 100%;
+                height: 100%;
+                filter: brightness(40%);
+
+            }
+        </style>
+    </head>
+    {% block content %}
+    <body class="body_class">
+        <div class="div01">
+        </div>
+        <h1 style="color:white; position:absolute; top:40px; left:500px;">Predicting the Insurance Expenses</h1>
+            
+        <div class="div2" style="position: absolute; top:150px; left: 600px; ">
+            <form action="{{url_for('homepage')}}" method="post">
+                <label for="gender" style="font-weight:600">Gender:</label><br>
+                <select name="gender" id="gender" style="width:90px;height: 30px;border-radius: 5px;">
+                    <option value="female" style="font-size:16px" required>Female</option>
+                    <option value="male" style="font-size:16px">Male</option>
+                </select><br><br>
+
+                <label for="age" style="font-weight:600">Age:</label><br>
+                <input type="number" id="age" name="age" style="border-radius: 4px; height: 25px;" required><br><br>
+
+                <label for="bmi" style="font-weight:600">BMI:</label><br>
+                <input type="number" id="bmi" name="bmi" style="border-radius: 4px; height:25px" required><br><br>
+                <label for="children"style="font-weight:600">Children:</label><br>
+                <input type="number" id="children" name="children" style="border-radius: 4px; height: 25px;" required><br><br>
+                <label for="smoker"style="font-weight:600">Smoker:</label><br>
+                <input type="radio" id="smoker" name="smoker" value="yes" required>
+                <label for="smoker" style="font-weight:600">YES</label>
+                <input type="radio" id="smoker" name="smoker" value="no">
+                <label for="smoker">NO</label><br><br>
+                
+                <label for="region" style="font-weight:600">Region:  </label>
+                <select name="region" id="region" style="width:100px;height: 30px; border-radius: 8px; height:25px">
+                <option value="northeast" style="font-size:16px" required>Northeast</option>
+                <option value="northwest" style="font-size:16px">Northwest</option>
+                <option value="southeast" style="font-size:16px">Southeast</option>
+                <option value="southwest" style="font-size:16px">Southwest</option>
+                </select><br><br><br>
+                <input type="submit" value="Submit" style="text-align: center;width:80px;height: 30px;border-radius: 8px;">
+              </form>
+        </div>
+              <div class="div3">
+                {% if expense %}
+                    <h1 style="color:white; position:absolute;top:580px; left:400px">The possible expenses could be Rs. {{ expense }}</h1>
+                {% else %}
+                    <h2></h2>
+                {% endif %}
+              </div>
+        
+        
+    </body>
+    {% endblock %}
+</html>
